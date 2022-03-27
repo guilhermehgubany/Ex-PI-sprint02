@@ -1,0 +1,30 @@
+.q_externo{
+    background-color: rgb(112, 62, 62);
+    width: 75%;
+    height: 600px;
+}
+
+.q_interno{
+    
+}
+.azul{
+    background-color: blue;
+}
+.roxo{
+    background-color: blueviolet;
+}
+.verde{
+    background-color: green;
+}
+.amarelo{
+    background-color: yellow;
+}
+.esquerda{
+    background-color: red;
+}
+.centro{
+    background-color: rgb(29, 97, 117);
+}
+.direita{
+    background-color: chartreuse;
+}
